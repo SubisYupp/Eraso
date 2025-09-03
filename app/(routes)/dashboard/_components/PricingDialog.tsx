@@ -77,7 +77,6 @@ function PricingDialog() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span className="text-gray-700"> Exclusive access to Tubeguruji.com content </span>
         </li>
 
         <li className="flex items-center gap-1">
@@ -177,7 +176,6 @@ function PricingDialog() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span className="text-gray-700"> Limited Access to Tubeguruji.com </span>
         </li>
 
         <li className="flex items-center gap-1">
